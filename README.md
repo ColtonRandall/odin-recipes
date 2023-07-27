@@ -5,6 +5,6 @@
 The main skills touched on in this repo will be the basics of HTML:
 
 - nesting
-- hyperlinks
+- hyperlinks (absolute and relative)
 - images
 - page structure
