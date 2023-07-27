@@ -8,3 +8,7 @@ The main skills touched on in this repo will be the basics of HTML:
 - hyperlinks (absolute and relative)
 - images
 - page structure
+- attributes / tags
+- html boilerplate
+- general ways to work with text
+- commit messages and version control (git)
